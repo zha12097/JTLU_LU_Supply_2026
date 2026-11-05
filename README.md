@@ -14,7 +14,7 @@ Most input data are fully restricted by the data provider (CoStar Group) or avai
 | `model_input_1y_2018_2023.csv` | Parcel-year choice data, 1-year lag, 2018–2023 |
 | `model_input_3y_2018_2023.csv` | Parcel-year choice data, 3-year lag, 2018–2023 |
 | `model_input_5y_2018_2023.csv` | Parcel-year choice data, 5-year lag, 2018–2023 |
-| `distance_decay/model_input_*.csv` | Main-model data with the rent variable downscaled using alternative distance-decay functions (linear; exponential with half-life 1, 5, 10, 25 and 50 km) |
+| `distance_decay/model_input_*.csv` | Main-model data with a market-signal variable downscaled using alternative distance-decay functions (linear; exponential with half-life 1, 5, 10, 25 and 50 km) |
 
 ## Scripts (`scripts/`)
 
