@@ -1,4 +1,4 @@
-# Land Use Supply at the Parcel Level in the Metropolitan-Scale Area: Framework, Application, and Behavioural Insights
+# Land Use Supply at the Parcel Level in the Metropolitan-Scale Area (Case Study)
 
 Code and example data for:
 
