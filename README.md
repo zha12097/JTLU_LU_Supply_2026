@@ -33,4 +33,4 @@ MIT
 
 ## Acknowledgement
 
-Claude Opus 5.5 (Anthropic) was used to tidy and restructure the code in this repository. The models, analyses and results are the authors' own.
+Claude Opus 5.5 was used to tidy and restructure the code in this repository. The models, analyses and results are the authors' own.
